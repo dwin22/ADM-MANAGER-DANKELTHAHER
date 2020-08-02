@@ -7,4 +7,4 @@
 
 ## Installation
 
-apt-get update && apt-get upgrade -y: wget https://raw.githubusercontent.com/dwin22/ADM-MANAGER-DANKELTHAHER/master/instala.sh; chmod 777 Dankelthaher.sh* && ./Dankelthaher.sh*
+apt-get update && apt-get upgrade -y: wget https://raw.githubusercontent.com/dwin22/ADM-MANAGER-DANKELTHAHER/master/Dankelthaher.sh; chmod 777 Dankelthaher.sh* && ./Dankelthaher.sh*
